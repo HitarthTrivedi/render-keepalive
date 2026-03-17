@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping website
-        run: curl -I https://3f1.in
+        run: curl -I https://threef1.onrender.com
